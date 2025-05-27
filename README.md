@@ -2,6 +2,8 @@
 
 __Create a Perplexity-like web search agent using Strands Agents and Amazon Bedrock SoTA foundation models, including Anthropic Claude Sonnet 4 and Amazon Nova Premier.__
 
+See the blog post [Introducing AWS Strands Agents: A New Paradigm in AI Agent Development](https://garystafford.medium.com/introducing-aws-strands-agents-a-new-paradigm-in-ai-agent-development-1d7c99588315) for more details.
+
 The following tutorial demonstrates creating a web search agent using Strands Agents and models available on Amazon Bedrock. We will access state-of-the-art (SoTA) models via Amazon Bedrock, including Anthropic's Claude Sonnet 4 and Amazon Nova Premier. Both are SoTA foundation models that  deliver frontier intelligence and industry-leading performance.
 
 [Strands Agents](https://github.com/strands-agents/sdk-python) is a simple yet powerful SDK that takes a model-driven approach to building and running AI agents. From simple conversational assistants to complex autonomous workflows, from local development to production deployment, Strands Agents scales with your needs.
