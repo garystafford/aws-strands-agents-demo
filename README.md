@@ -12,6 +12,7 @@ References:
 - [Stands Agents Blog Post: 'Introducing Strands Agents, an Open Source AI Agents SDK'](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
 - [Stands Agents Documentation](https://strandsagents.com/0.1.x/)
 - [Stands Agents GitHub Repository](https://github.com/strands-agents/sdk-python)
+
 ---
 
 _The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners._
